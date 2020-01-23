@@ -1,0 +1,8 @@
+{
+  "name": "AMCZA",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
+
